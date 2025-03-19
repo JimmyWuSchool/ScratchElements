@@ -6,6 +6,8 @@ This is a page where I will put some elements in scratch on here.
 
 - button.sb3 &rarr; a cool flat button
 - cursor_effect.sb3 &rarr; a button, cursor effect, hover effect, click effect
+- cursor_effect_v2.sb3 &rarr; cursor effect with 2 bottons
+- homepage_demo.sb3 &rarr; a homepage demo with three buttons no clicking effects yet
 
 # Before you use it 
 
